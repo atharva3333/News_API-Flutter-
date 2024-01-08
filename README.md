@@ -1,5 +1,7 @@
 # News Flutter App
 
+Watch a demo of the News Flutter App [here](https://drive.google.com/file/d/1US9gOzxKxXJ0Acuqi1bFG68ofvk-5oUv/view?usp=sharing).
+
 A new Flutter project designed to provide a beautiful news browsing experience.
 
 ## Getting Started
